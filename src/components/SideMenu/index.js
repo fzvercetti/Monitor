@@ -1,5 +1,4 @@
 import {
-  // AppstoreOutlined,
   AccountBookFilled,
   ShopOutlined,
   ShoppingCartOutlined,
@@ -37,8 +36,8 @@ function SideMenu() {
           },
           {
             label: "Serie de tiempo",
-            key: "/dashboard2",
             icon: <ShopOutlined />,
+            key: "/timeseries",
           },
           {
             label: "Producción",
