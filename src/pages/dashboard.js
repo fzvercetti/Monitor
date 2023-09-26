@@ -5,12 +5,11 @@ import { Outlet } from "react-router-dom";
 //import PageContent from "../components/pagecontent/content";
 
 function Dashboard() {
-  <p>Hola mundo</p>
-    // return (
-    //     <div className="SideMenuAndPageContent">
-    //       <SideMenu></SideMenu>
-    //       <Outlet></Outlet>
-    //     </div>
-    // );
+     return (
+         <div className="SideMenuAndPageContent">
+           <SideMenu></SideMenu>
+           <Outlet></Outlet>
+         </div>
+     );
   }
   export default Dashboard;
