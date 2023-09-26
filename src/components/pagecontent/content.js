@@ -1,10 +1,10 @@
-import AppRoutes from "../../App";
+// import Productor from "../../pages/productor";
 
-function PageContent() {
-    return(
-        <div className="PageContent">
-            <AppRoutes/>
-        </div>
-    );
-}
-export default PageContent;
+//  function PageContent() {
+//      return(
+//          <div className="PageContent">
+//          <Productor/>
+//          </div>
+//      );
+//  }
+//  export default PageContent;

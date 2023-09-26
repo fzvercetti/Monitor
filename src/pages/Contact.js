@@ -1,8 +1,7 @@
-<div className="Footer">
+{/* <div className="Footer">
 <div className="container">
     <div className="row">
         <div className="col-md-6 col-lg-5 col-12 ft-1">
-            <h3><span>ITCV</span> <img src={logoitcv} alt='logoitcv' style={{ width: '15%', height: '15%' }}/> </h3>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum ea quo ex ullam laboriosam magni totam, facere eos iure voluptate.</p>
 
         </div>
@@ -28,4 +27,4 @@
         </div>
     </div>
 </div>
-</div>
+</div> */}
